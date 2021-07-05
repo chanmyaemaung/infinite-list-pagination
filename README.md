@@ -4,7 +4,7 @@ A new Flutter project and check what I does on it.
 
 ## Let Get Started
 
-This project is a tiny but it can give you a whole bunch of knowledge those who learn with flutter like me.
+This project is a tiny but it can give you a whole bunch of knowledges those who are learning with flutter just like me.
 
 A few resources to get you started if this is your first Flutter project:
 
